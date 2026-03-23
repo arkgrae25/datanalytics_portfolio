@@ -4,8 +4,10 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build
 export default defineConfig({
-  site: 'https://arkgrae25.github.io',
-  base: '/datanalytics-portfolio', 
+  // GitHub Pages project site URL:
+  // https://{username}.github.io/{repo}/
+  site: 'https://arkgrae25.github.io/datanalytics_portfolio',
+  base: '/datanalytics_portfolio',
 
   vite: {
     plugins: [tailwindcss()],
