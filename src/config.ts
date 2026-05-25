@@ -28,39 +28,88 @@ export const siteConfig = {
       skills: ["Data Transformation", "Power Query", "Excel", "Data Cleaning"],
     },
     {
-      name: "Practice Task 1",
+      name: "Midterm Practice Task 1",
       description:
         "Data Cleaning and Data Preparation",
       link: "https://docs.google.com/document/d/1GJM9bnkGdXUSpmBiW-Y0fvx7czr13407N-Ha5Rg23Io/edit?tab=t.0",
       skills: ["Messy Data", "Excel", "Cleaned Data", "Data Transformation"],
     },
     {
-      name: "Practice Task 2",
+      name: "MidtermPractice Task 2",
       description:
         "Data Analysis and Visualization",
       link: "https://docs.google.com/document/d/1ozagjYGpJiCmyJeU3JKcY3Vg59y3Lqk57c8HcxbY_ls/edit?tab=t.0",
       skills: ["Excel", "Data Visualization", "Data Transformation", "Data Analysis"],
     },
     {
-      name: "Practice Task 3",
+      name: "MidtermPractice Task 3",
       description:
         "Advanced Excel Functions",
       link: "https://docs.google.com/document/d/14VnaIvV6au-rDCTJ5EkhxWcVRt9PqnKKpypp6jerbi0/edit?tab=t.0",
       skills: ["XLOOKUP", "Excel", "VLOOKUP", "Data Transformation", "Formulas"],
     },
     {
-      name: "Practice Task 4",
+      name: "Midterm Practice Task 4",
       description:
         "Data Cleaning and Data Preparation using Power Query",
       link: "https://docs.google.com/document/d/13dvs7nTyGjMJyRgiDBxPlOZ6w7fSEUXseS1VjK4UaRE/edit?tab=t.0",
       skills: ["Data Transformation", "Excel", "Data Preparation", "Power Query", "Formulas"],
     },
     {
-      name: "Paired Task 1",
+      name: "Midterm Paired Task 1",
       description:
         "Paired Laboratory Activity",
       link: "https://docs.google.com/document/d/12XMr45h3ikHJzheGRonOV16sQ5FYC8egabr_BK9hNFE/edit?tab=t.0",
       skills: ["Paired Activity", "Excel", "Details", "What To Know", "Research"],
+    },
+    {
+      name: "Finals Practice Task 1.1",
+      description:
+        "Data Preparation and Exploratory Data Analysis using SQL",
+      link: "https://docs.google.com/document/d/1TMN4ao_CURkbVmcDP4Y6Nf7617Tu0lzUoL49T-ILJW0/edit?usp=sharing",
+      skills: ["Activity", "SQL", "EDA", "MySQL WorkBench", "Data Cleaning"],
+    },
+    {
+      name: "Finals Practice Task 1.2",
+      description:
+        "Data Preparation and Exploratory Data Analysis (EDA) using Mysql",
+      link: "https://docs.google.com/document/d/1TMN4ao_CURkbVmcDP4Y6Nf7617Tu0lzUoL49T-ILJW0/edit?usp=sharing",
+      skills: ["Activity", "SQL", "EDA", "MySQL WorkBench", "Data Cleaning"],
+    },
+    {
+      name: "Finals Essay Tasks 1",
+      description:
+        "Reading Tasks on Analytics",
+      link: "https://docs.google.com/document/d/1WTQV7OiCYkicUR-t0RyPSz2EKO7bku0QucDVTAOnO1o/edit?usp=sharing",
+      skills: ["Activity", "Essay", "Data Analysis", "4 Primary Factors", "Data Analysts"],
+    },
+    {
+      name: "Finals Task 2",
+      description:
+        "Navigating Power BI",
+      link: "https://docs.google.com/document/d/1TMN4ao_CURkbVmcDP4Y6Nf7617Tu0lzUoL49T-ILJW0/edit?usp=sharing",
+      skills: ["Reports View", "Dashboards", "EDA", "Power BI", "Data Cleaning"],
+    },
+    {
+      name: "Finals Task 3",
+      description:
+        "Time Intelligence Function",
+      link: "https://docs.google.com/document/d/1TMN4ao_CURkbVmcDP4Y6Nf7617Tu0lzUoL49T-ILJW0/edit?usp=sharing",
+      skills: ["Activity", "Time Intelligence Function", "Measure", "Calculated Columns", "Model View"],
+    },
+    {
+      name: "Finals Lab Task 4",
+      description:
+        "Designing Interactive Reports in Power BI",
+      link: "https://docs.google.com/document/d/1TMN4ao_CURkbVmcDP4Y6Nf7617Tu0lzUoL49T-ILJW0/edit?usp=sharing",
+      skills: ["Activity", "Slicer", "KPI's", "Power BI", "Charts"],
+    },
+    {
+      name: "Group Task 1",
+      description:
+        "Project Preparation",
+      link: "https://docs.google.com/document/d/1TMN4ao_CURkbVmcDP4Y6Nf7617Tu0lzUoL49T-ILJW0/edit?usp=sharing",
+      skills: ["Group Activity", "MySQL Workbench", "Power BI", "Metrics Pyramid", "DAX Framework", "DASH Framework"],
     },
   ],
   experience: [],
