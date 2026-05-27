@@ -28,12 +28,39 @@ import "../styles/global.css";
   <body>
     <Header />
     <section>
-      <Hero />
-      <About />
-      <Projects />
-      <Experience />
-      <Education />
+      <div data-reveal>
+        <Hero />
+      </div>
+      <div data-reveal>
+        <About />
+      </div>
+      <div data-reveal>
+        <Projects />
+      </div>
+      <div data-reveal>
+        <Experience />
+      </div>
+      <div data-reveal>
+        <Education />
+      </div>
     </section>
     <Footer />
+
+    <script is:inline>
+      // Lightweight scroll reveal for sections
+      const els = Array.from(document.querySelectorAll("[data-reveal]"));
+      const io = new IntersectionObserver(
+        (entries) => {
+          for (const e of entries) {
+            if (e.isIntersecting) {
+              e.target.classList.add("is-revealed");
+              io.unobserve(e.target);
+            }
+          }
+        },
+        { threshold: 0.12, rootMargin: "0px 0px -10% 0px" }
+      );
+      for (const el of els) io.observe(el);
+    </script>
   </body>
 </html>
