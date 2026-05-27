@@ -73,7 +73,7 @@ export const siteConfig = {
       name: "Finals Practice Task 1.2",
       description:
         "Data Preparation and Exploratory Data Analysis (EDA) using Mysql",
-      link: "https://docs.google.com/document/d/1TMN4ao_CURkbVmcDP4Y6Nf7617Tu0lzUoL49T-ILJW0/edit?usp=sharing",
+      link: "https://docs.google.com/document/d/1P6peFyojdO4JKhx-zy2ebS4TVnNcJ8i822GYg_GDwHo/edit?usp=sharing",
       skills: ["Activity", "SQL", "EDA", "MySQL WorkBench", "Data Cleaning"],
     },
     {
@@ -87,28 +87,28 @@ export const siteConfig = {
       name: "Finals Task 2",
       description:
         "Navigating Power BI",
-      link: "https://docs.google.com/document/d/1TMN4ao_CURkbVmcDP4Y6Nf7617Tu0lzUoL49T-ILJW0/edit?usp=sharing",
+      link: "https://docs.google.com/document/d/1-2WV4jV-Xka2I60BRedl-ozX4lA8MwEtXvtkuB3-kuI/edit?usp=sharing",
       skills: ["Reports View", "Dashboards", "EDA", "Power BI", "Data Cleaning"],
     },
     {
       name: "Finals Task 3",
       description:
         "Time Intelligence Function",
-      link: "https://docs.google.com/document/d/1TMN4ao_CURkbVmcDP4Y6Nf7617Tu0lzUoL49T-ILJW0/edit?usp=sharing",
+      link: "https://docs.google.com/document/d/1NEYluFba3LRuR5wbQxeBZXl2nztb59e3IwevE-Pmgx0/edit?usp=sharing",
       skills: ["Activity", "Time Intelligence Function", "Measure", "Calculated Columns", "Model View"],
     },
     {
       name: "Finals Lab Task 4",
       description:
         "Designing Interactive Reports in Power BI",
-      link: "https://docs.google.com/document/d/1TMN4ao_CURkbVmcDP4Y6Nf7617Tu0lzUoL49T-ILJW0/edit?usp=sharing",
+      link: "https://docs.google.com/document/d/1eKcNOQKfrr3VZF9qKgfRjxJ5OqPCQiGXnV9O6bTg9QE/edit?usp=sharing",
       skills: ["Activity", "Slicer", "KPI's", "Power BI", "Charts"],
     },
     {
       name: "Group Task 1",
       description:
         "Project Preparation",
-      link: "https://docs.google.com/document/d/1TMN4ao_CURkbVmcDP4Y6Nf7617Tu0lzUoL49T-ILJW0/edit?usp=sharing",
+      link: "https://docs.google.com/document/d/1edbl3ocyxnNV9yuoSO5DClrfNXlkZA5WU-EEn8qEsp8/edit?usp=sharing",
       skills: ["Group Activity", "MySQL Workbench", "Power BI", "Metrics Pyramid", "DAX Framework", "DASH Framework"],
     },
   ],
